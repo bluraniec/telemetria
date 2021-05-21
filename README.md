@@ -1,4 +1,4 @@
-![Intro](/readme/1.png)
+![Intro](/readme/main.png)
 # O sesji
 Celem tego warsztatu jest ukazanie przykładu zastosowania telemetrii opartej na modelach danych (ang. Model-Driven Telemetry) stosowanej m.in. do monitorowania sąsiedztw protokołu BGP (BGP Neighborship). W stabilnym środowisku, sąsiedztwa BGP nie powinny być niestabilne (flapping). Częste zmiany stanu mogą wskazywać na problem ze sprzętem, oprogramowaniem, okablowaiem lub konfiguracją urządzenia sieciowego. Chcemy monitorować te niestabilności. Możesz następnie skorzystać z tej informacji w celu wyłączenia sąsiedztwa w przypadku powtórzonego alarmu.
 <img align="center" width=90% src="/readme/topo.png"></img>
