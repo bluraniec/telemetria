@@ -15,6 +15,7 @@ Telemetria oparta na modelach danych (MDT) pozwala na pomiary niemal w czasie rz
 Warsztat ten demonstruje jak telemetria strumieniowa może być stosowana w środowisku z urządzeniami Cisco IOS-XR. Uczestnicy będą mieli możliwość zbierania danych z urządzeń, analizowania ich i wizualizowania w czasie niemal rzeczywistym przy użyciu narzędzi typu open-source.
 
 # Wymagania wstępne
+- Podstawy sieci
 - Podstawy języka SQL
 - Podstawy systemu operacyjnego Linux
 
