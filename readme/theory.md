@@ -10,8 +10,10 @@ TEST
 ![Telemetria-gdzie2](/readme/theory3.png)
 
 # Dlaczego ją stosujemy?
+![Telemetria-gdzie2](/readme/theory4.png)
 
 # Dlaczego MY ją stosujemy?
+![Telemetria-gdzie2](/readme/theory5.png)
 
 # Model-Driven Telemetry
 
