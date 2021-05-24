@@ -16,8 +16,12 @@ TEST
 ![Telemetria-gdzie2](/readme/theory5.png)
 
 # Model-Driven Telemetry
+![Telemetria-gdzie2](/readme/theory6.png)
 
 # 1. Warstwa magazynu danych
+![Telemetria-gdzie2](/readme/theory7.png)
+![Telemetria-gdzie2](/readme/theory8.png)
+
 # 2. Warstwa modelu danych
 # 3. Warstwa producenta
 # 4. Warstwa exportera
