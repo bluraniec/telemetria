@@ -28,6 +28,9 @@
 
 # 4. Warstwa exportera
 ![Telemetria-gdzie2](/readme/theory12.png)
+![Telemetria-gdzie2](/readme/theory14.png)
+![Telemetria-gdzie2](/readme/theory15.png)
+![Telemetria-gdzie2](/readme/theory16.png)
 
 # 5. Warstwa analityczna
 ![Telemetria-gdzie2](/readme/theory13.png)
