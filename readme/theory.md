@@ -1,5 +1,3 @@
-TEST
-
 # Czym jest Telemetria?
 ![Telemetria](/readme/theory1.png)
 
