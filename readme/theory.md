@@ -23,8 +23,9 @@
 # 2. Warstwa modelu danych
 ![Telemetria-gdzie2](/readme/theory10.png)
 ![Telemetria-gdzie2](/readme/theory18.png)
-![Telemetria-gdzie2](/readme/theory19.png)  
+![Telemetria-gdzie2](/readme/theory24.png)  
 https://github.com/YangModels/yang
+![Telemetria-gdzie2](/readme/theory19.png)
 ![Telemetria-gdzie2](/readme/theory20.png)
 ![Telemetria-gdzie2](/readme/theory21.png)
 ![Telemetria-gdzie2](/readme/theory22.png)
