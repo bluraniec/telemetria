@@ -25,6 +25,7 @@
 
 # 3. Warstwa producenta
 ![Telemetria-gdzie2](/readme/theory11.png)
+![Telemetria-gdzie2](/readme/theory17.png)
 
 # 4. Warstwa exportera
 ![Telemetria-gdzie2](/readme/theory12.png)
