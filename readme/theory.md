@@ -21,10 +21,17 @@
 ![Telemetria-gdzie2](/readme/theory8.png)
 
 # 2. Warstwa modelu danych
-# 3. Warstwa producenta
-# 4. Warstwa exportera
-# 5. Warstwa analityczna
+![Telemetria-gdzie2](/readme/theory10.png)
 
+# 3. Warstwa producenta
+![Telemetria-gdzie2](/readme/theory11.png)
+
+# 4. Warstwa exportera
+![Telemetria-gdzie2](/readme/theory12.png)
+
+# 5. Warstwa analityczna
+![Telemetria-gdzie2](/readme/theory13.png)
+![Telemetria-gdzie2](/readme/theory9.png)
 
 <h4 align="center">[1/6]</h4>
 <h4 align="center"> <a href="../README.md"> :arrow_left: Intro </a> || <a href="/readme/1.md"> IOS-XR Model-Driven Telemetry :arrow_right: </a> </h4>
