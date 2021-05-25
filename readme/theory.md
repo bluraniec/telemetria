@@ -22,6 +22,11 @@
 
 # 2. Warstwa modelu danych
 ![Telemetria-gdzie2](/readme/theory10.png)
+![Telemetria-gdzie2](/readme/theory18.png)
+![Telemetria-gdzie2](/readme/theory19.png)
+![Telemetria-gdzie2](/readme/theory20.png)
+![Telemetria-gdzie2](/readme/theory21.png)
+![Telemetria-gdzie2](/readme/theory22.png)
 
 # 3. Warstwa producenta
 ![Telemetria-gdzie2](/readme/theory11.png)
