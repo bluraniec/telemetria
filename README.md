@@ -19,5 +19,5 @@ Warsztat ten demonstruje jak telemetria strumieniowa może być stosowana w śro
 - Podstawy języka SQL
 - Podstawy systemu operacyjnego Linux
 
-<h4 align="center">[1/6]</h4>
+<h4 align="center">[0/6]</h4>
 <h4 align="center"> <a href="/readme/theory.md"> Trochę teorii! :arrow_right: </a> </h4>
